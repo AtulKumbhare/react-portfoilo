@@ -1,7 +1,7 @@
 {
-  "main.css": "/react-portfoilo/static/css/main.db0ee953.chunk.css",
-  "main.js": "/react-portfoilo/static/js/main.1faf4e85.chunk.js",
-  "main.js.map": "/react-portfoilo/static/js/main.1faf4e85.chunk.js.map",
+  "main.css": "/react-portfoilo/static/css/main.4e06eeaa.chunk.css",
+  "main.js": "/react-portfoilo/static/js/main.2f7a13e3.chunk.js",
+  "main.js.map": "/react-portfoilo/static/js/main.2f7a13e3.chunk.js.map",
   "static/css/1.daf6ba03.chunk.css": "/react-portfoilo/static/css/1.daf6ba03.chunk.css",
   "static/js/1.0b903623.chunk.js": "/react-portfoilo/static/js/1.0b903623.chunk.js",
   "static/js/1.0b903623.chunk.js.map": "/react-portfoilo/static/js/1.0b903623.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/appheader.scss": "/react-portfoilo/static/media/4k-3840-x-2160-wallpapers-themefoxx (589).54533a44.jpg",
   "static/media/font-awesome.min.css": "/react-portfoilo/static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/skills.scss": "/react-portfoilo/static/media/4k-3840-x-2160-wallpapers-themefoxx (99).a3483189.jpg",
-  "static/css/main.db0ee953.chunk.css.map": "/react-portfoilo/static/css/main.db0ee953.chunk.css.map",
+  "static/css/main.4e06eeaa.chunk.css.map": "/react-portfoilo/static/css/main.4e06eeaa.chunk.css.map",
   "static/css/1.daf6ba03.chunk.css.map": "/react-portfoilo/static/css/1.daf6ba03.chunk.css.map",
   "index.html": "/react-portfoilo/index.html",
-  "precache-manifest.6eed3cad519a2ae1769ec1e17e783941.js": "/react-portfoilo/precache-manifest.6eed3cad519a2ae1769ec1e17e783941.js",
+  "precache-manifest.8b10fefe558ef1336adb27c8550a8719.js": "/react-portfoilo/precache-manifest.8b10fefe558ef1336adb27c8550a8719.js",
   "service-worker.js": "/react-portfoilo/service-worker.js"
 }

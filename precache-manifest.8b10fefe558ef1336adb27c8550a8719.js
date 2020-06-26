@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1faf4e858c120ec1ed9c",
-    "url": "/react-portfoilo/static/css/main.db0ee953.chunk.css"
+    "revision": "2f7a13e3bcb62495fbcf",
+    "url": "/react-portfoilo/static/css/main.4e06eeaa.chunk.css"
   },
   {
-    "revision": "1faf4e858c120ec1ed9c",
-    "url": "/react-portfoilo/static/js/main.1faf4e85.chunk.js"
+    "revision": "2f7a13e3bcb62495fbcf",
+    "url": "/react-portfoilo/static/js/main.2f7a13e3.chunk.js"
   },
   {
     "revision": "0b9036233d3fb7aac576",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/react-portfoilo/static/media/4k-3840-x-2160-wallpapers-themefoxx (99).a3483189.jpg"
   },
   {
-    "revision": "5e045f66978c1043a96b388bf96b26da",
+    "revision": "c03ce1533db1c8d73e17dad8ecc6f87a",
     "url": "/react-portfoilo/index.html"
   }
 ];
